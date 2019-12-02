@@ -1,0 +1,23 @@
+.header{
+	height: 2vh;
+	background-color: #84b7b2;
+}
+
+.odd, .even {
+	background-color: #ffffff;
+}
+
+.day {
+	color: #007a82;
+}
+
+.day:hover {
+	color: white;
+	background-color: #8397d1;
+	cursor: pointer;
+}
+
+.day:active {
+	color: #c1c1c1;
+	background-color: #84b7b2;
+}
