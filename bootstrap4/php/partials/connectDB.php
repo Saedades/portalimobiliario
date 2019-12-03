@@ -3,7 +3,7 @@
   //$conn = mysqli_connect("localhost","pleskuser","Lxo9y*9xJ5fIegco","foco200");
 	//$conn = mysqli_connect("localhost","foco200user","1Tqmy4!K2Wljdxgw","foco200");
 	//$conn = mysqli_connect("localhost","portal_user","sRg03w~0AQvbfmso","rg_db_portal");
-  $conn = mysqli_connect("localhost","portaluser","sRg03w~0AQvbfmso","portal_imobiliario");
+  $conn = mysqli_connect("localhost","portaluser","ljLy^130APmxjpfp","portal_imobiliario");
 
     if (mysqli_connect_errno())
     {
